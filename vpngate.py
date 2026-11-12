@@ -64,14 +64,10 @@ DEFAULT_EDGE_HOSTS = [
     "cf.877774.xyz:443",
     "cdn.204910.best:443",
     "cdn.ctn32.us.kg:443",
-    "p.etime.vip:443",
-    "cmcc.vvvv.ee:443",
-    "cfsaas.080112.xyz:443",
-    "cdn.aneko.ink:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+    "bestcf.pages.dev/vps789/top10.txt",
+    "bestcf.pages.dev/domain/Domain-Asia.txt",
+    "bestcf.pages.dev/wetest/ipv4.txt",
+    "bestcf.pages.dev/gslege/Cfxyz.txt,
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
